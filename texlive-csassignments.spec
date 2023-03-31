@@ -1,6 +1,6 @@
 Name:		texlive-csassignments
 Version:	63992
-Release:	1
+Release:	2
 Summary:	A wrapper for article with macros and customizations for computer science assignments
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/csassignments
