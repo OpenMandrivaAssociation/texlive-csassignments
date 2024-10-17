@@ -3,7 +3,7 @@ Version:	63992
 Release:	2
 Summary:	A wrapper for article with macros and customizations for computer science assignments
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/csassignments
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/csassignments
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/csassignments.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/csassignments.doc.r%{version}.tar.xz
